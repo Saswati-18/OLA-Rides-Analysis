@@ -74,4 +74,4 @@ This repository contains resources for analyzing and improving OLAcabs' operatio
 
 ##  Links
 
-### 💼 [Linkedin Post]()
+### 💼 [Linkedin Post](https://www.linkedin.com/in/saswati-sadhu-37138b210/recent-activity/all/)
