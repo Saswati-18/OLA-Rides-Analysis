@@ -1,8 +1,9 @@
 # 🚕 OLA-Rides-Analysis
-This repository contains resources for analyzing and improving OLAcabs' operations in India. It includes:
+![]()
 
+This repository contains resources for analyzing and improving OLAcabs' operations in India. It includes:
 - 📊 **Dashboards** showcasing visual insights
-- 
+
 ## ⚠️ Problem Statement
 
 * Ride Volume Over Time
